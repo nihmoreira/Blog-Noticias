@@ -1,0 +1,71 @@
+
+.barrinha {
+    background-color: #f1813b;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:larger ;
+}
+
+.centroo{
+    margin-right: 800px;
+}
+.barrinha h1 {
+    color: white;
+    margin: 0;
+}
+.barrinha a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    transition: color 0.3s;
+}
+.barrinha a:hover {
+    color: #581205; /* Laranja */
+}
+
+body{
+    background-color:rgba(253, 224, 201, 0.477);
+}
+
+img{
+    border-radius: 15px;
+}
+footer, a{
+    text-align: center;
+    color: #581205;
+    text-decoration: none;
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#sobre{
+    text-indent: 20px;
+}
+
+#foto_sobre{
+    text-align: center;
+}
+.container {
+    display: flex;
+    max-width: 1200px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.card {
+    padding: 20px;
+    width: 50%;
+    margin-right: 20px;
+}
+
+.content {
+    padding: 20px;
+    width: 50%;
+}
