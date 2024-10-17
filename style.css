@@ -52,20 +52,3 @@ p{
 #foto_sobre{
     text-align: center;
 }
-.container {
-    display: flex;
-    max-width: 1200px;
-    height: 300px;
-    margin: 0 auto;
-}
-
-.card {
-    padding: 20px;
-    width: 50%;
-    margin-right: 20px;
-}
-
-.content {
-    padding: 20px;
-    width: 50%;
-}
